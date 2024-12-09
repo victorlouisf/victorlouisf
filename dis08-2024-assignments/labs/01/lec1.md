@@ -69,9 +69,3 @@ python<br>def hallo():<br>   print("Hello World")<br>
 1. Erster Punkt
 2. Zweiter Punkt
 3. Dritter Punkt 
-
--
--
--
-
-
